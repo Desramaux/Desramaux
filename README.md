@@ -1,5 +1,3 @@
-# 👋 Salut, je suis [VotreNom]!
-
 ```c
 #include <stdio.h>
 int main() {
